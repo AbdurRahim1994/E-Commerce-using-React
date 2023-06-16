@@ -1,0 +1,1 @@
+export const BaseURL = 'https://cheerful-blazer-boa.cyclic.app/api/v1'
