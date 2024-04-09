@@ -6,6 +6,7 @@ import '../src/assets/css/bootstrap.css'
 import '../src/assets/css/style.css'
 import { Provider } from 'react-redux';
 import store from './redux/store/store';
+import 'antd/dist/reset.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
